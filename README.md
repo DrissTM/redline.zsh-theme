@@ -3,7 +3,7 @@
 
 ## Installation
 ```bash
-curl -s https://raw.githubusercontent.com/DrissTM/redline.zsh-theme/master/redline.zsh-theme > ~/.oh-my-zsh/themes/redline.zsh-theme
+curl -s https://raw.githubusercontent.com/DrissTM/redline.zsh-theme/master/redline.zsh-theme > ~/.oh-my-zsh/custom/themes/redline.zsh-theme
 ```
 <br/>
 
